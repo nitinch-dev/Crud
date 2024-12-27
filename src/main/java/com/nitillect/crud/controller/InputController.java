@@ -14,6 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class InputController {
 
     @Autowired
+
     private InputService inputService;
 
     /*@PostMapping
